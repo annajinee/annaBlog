@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: AnnaKim's Blog
+description: Hello World!
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: https://annajinee.github.io/" 
 # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Anna Kim
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: Full Stack Developer, Spring boot / Django / RESTful API / Angular2
 user_title: Software Developer
 email: annajinee@gmail.com
 twitter_username: lorem_ipsum
