@@ -55,14 +55,14 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Anna Kim
+        bio: Full Stack Developer, Spring boot / Django / RESTful API / Angular2
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: anna
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        name: Anna Foster
+        bio: Full Stack Developer, Spring boot / Django / RESTful API / Angular2
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
