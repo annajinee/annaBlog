@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Junior Full Stack Developer, Using Spring boot / Django / RESTful API / Angular2</p>
+<p>Junior Full Stack Developer</p>
 
 <h2>Skills</h2>
 
