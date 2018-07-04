@@ -12,7 +12,7 @@ layout: page
 <br><br>
 <h2>Skills</h2>
 
-<ul class="skill-list" style="list-style:none">
+<ul class="skill-list" style="list-style:none; margin:0px; padding:0px;">
 	<li>Java / Spring / Spring Boot</li>
 	<li>Python / Django</li>
 	<li>HTML / CSS / Bootstrap</li>
