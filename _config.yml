@@ -59,16 +59,16 @@ authors:
         bio: Full Stack Developer
         external-image: true
         picture: assets/images/anna.jpg
-    jamesfoster:
-        name: Anna Foster
-        bio: Full Stack Developer
-        external-image: true
-        picture: assets/images/anna.jpg
+#    jamesfoster:
+#        name: Anna Foster
+#        bio: Full Stack Developer
+#        external-image: true
+#        picture: assets/images/anna.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
