@@ -1,51 +1,112 @@
-# Site settings
-name: John Smith
-description: "Nifty little description"
-url: ""
+# main text of home
+name: John Doe
+bio: A Man who travels the world eating noodles
 
+# twitter summary info
+description: A blog about technology and stuff related
 
-# Delete the lines you don't need
-# about 5 elements are recomended
-github_username:  dashingcode
-codepen_username: your_codepen_username_goes_here
-facebook_username: your_facebook_username_goes_here
-vk_username: your_vk_username_goes_here
-twitter_username: your_twitter_username_goes_here
-google_plus_username: your_google_plus_username_goes_here
-linkedin_username: your_linked_in_username_goes_here
-vine_username:  your_vine_username_goes_here
-instagram_username:  your_instagram_username_goes_here
-flickr_username: your_flickr_username_goes_here
-steam_username: your_steam_username_goes_here
-soundcloud_username:  your_soundcloud_username_goes_here
-stack_of_username: your_stack_overflow_account_id_number_goes_here
-reddit_username: your_reddit_username_goes_here
-medium_username:  your_medium_username_goes_here
-tumblr_username: your_tumblr_username_goes_here
-weibo_username: your_weibo_username_goes_here
-lastfm_username: your_lastfm_username_goes_here
-blog_url: "/blog"
-email: your-email@example.domain
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
 
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
 
-avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+url: https://koppl.in/indigo
+# your url: http://USERNAME.github.io
 
+permalink: /:title/
 
-front_img: yes
-front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
 
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
 
-favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
+# if you don't have any of social below, comment the line
+facebook: myfacebook
+twitter: mytwitter
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
+github: mygithub
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: myemail@gmail.com
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+authors:
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+jekyll-mentions:
+    base_url: https://github.com
