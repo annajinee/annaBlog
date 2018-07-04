@@ -4,7 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Junior Full Stack Developer</p>
+<div align="center">
+<h4>Junior Full Stack Developer</h4>
 
 <h2>Skills</h2>
 
@@ -16,3 +17,4 @@ layout: page
 	<li>MySQL - MsSQL - Oracle</li>
 	<li>Git</li>
 </ul>
+</div>
