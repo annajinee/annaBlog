@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: annajinee
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: annajinee
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -56,13 +56,13 @@ email: annajinee@gmail.com
 authors:
     johndoe:
         name: Anna Kim
-        bio: Full Stack Developer, Spring boot / Django / RESTful API / Angular2
+        bio: Full Stack Developer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: anna
     jamesfoster:
         name: Anna Foster
-        bio: Full Stack Developer, Spring boot / Django / RESTful API / Angular2
+        bio: Full Stack Developer
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
