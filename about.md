@@ -2,10 +2,10 @@
 title: About
 layout: page
 ---
-<div align="center">
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-
+<div align="center">
 <h2>Anna Kim</h2>
 <h4>Junior Full Stack Developer</h4>
 
