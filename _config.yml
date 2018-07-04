@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/anna.jpg
 
 # If you want to include your resume, set to true
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://annajinee.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,9 +35,9 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: jinajinee
-twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
+#twitter: mytwitter
+google: annajinee
+instagram: _jiini
 # pinterest: mypinterest
 linkedin: annajinee/
 # youtube: myyoutube
@@ -48,7 +48,7 @@ github: annajinee
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: annajinee@gmail.com
@@ -57,20 +57,18 @@ authors:
     johndoe:
         name: Anna Kim
         bio: Full Stack Developer
-        external-image: false
+        external-image: true
         picture: assets/images/anna.jpg
-        twitter: anna
     jamesfoster:
         name: Anna Foster
         bio: Full Stack Developer
-        external-image: false
+        external-image: true
         picture: assets/images/anna.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
