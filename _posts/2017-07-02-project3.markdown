@@ -6,7 +6,7 @@ headerImage: true
 projects: true
 category: project
 externalLink: false
-image: ../assets/images/project3.png
+image: ../assets/images/project3.jpg
 
 ---
 
