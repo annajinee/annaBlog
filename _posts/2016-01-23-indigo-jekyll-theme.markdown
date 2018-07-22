@@ -3,33 +3,22 @@ title: "스마트택배 앱 설문 플랫폼 프로젝트"
 layout: post
 date: 2018.07 ~ 진행중
 tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://koppl.in/indigo/assets/images/surveymonkey.PNG
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+주사용기술
+Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+온라인 구매자 패널을 활용한 서베이 프로젝트로 스마트 택배 앱 내에 닐슨서베이 설문을 작성을 유도하고 서베이몽키로 부터 설문결과를 수신하여 데이터를 제공하는 프로젝트입니다.
+서베이 몽키 API연동 작업을 담당하며 스마트 택배 앱에서 사용자가 유입하여 설문 완료 시 설문 결과 수신 및 해당 아이디를 백 오피스로 전달하는 부분을 개발 하였습니다
+
+---
+
