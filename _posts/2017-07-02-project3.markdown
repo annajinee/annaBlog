@@ -2,10 +2,11 @@
 title: "홈픽- 택배 1시간 픽업 서비스"
 layout: post
 term: 2017.07 ~ 2018.06
-headerImage: false
+headerImage: true
 projects: true
 category: project
-externalLink: false
+externalLink: falseimage: ../assets/images/project3.png
+
 ---
 
 Java, Spring Boot, JPA, MySQL, Oracle, RESTful API, 카카오 톡 자동 응답 API, 네이버 톡톡 자동 응답 API, Linux (CentOS), Git
@@ -19,4 +20,6 @@ Java, Spring Boot, JPA, MySQL, Oracle, RESTful API, 카카오 톡 자동 응답 
 ---
 
 http://homepick.com/ <br>
-Kakao Plus : 홈픽
+KakaoTalk Plus : 홈픽 <br>
+포스팅 : http://annajinee.tistory.com/19 <br>
+참고 : https://github.com/plusfriend/auto_reply
