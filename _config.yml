@@ -33,16 +33,19 @@ disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
+# if you don't have any of social bellinkedin: annajinee/ow, comment the line
+linkedin: annajinee/
+email: annajinee@gmail.com
+github: annajinee
 facebook: jinajinee
 #twitter: mytwitter
 #google: annajinee
-instagram: _jiini
+#instagram: _jiini
 # pinterest: mypinterest
-linkedin: annajinee/
+
 # youtube: myyoutube
 # spotify: myspotify
-github: annajinee
+#github: annajinee
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +54,7 @@ github: annajinee
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: annajinee@gmail.com
+
 
 authors:
     johndoe:
