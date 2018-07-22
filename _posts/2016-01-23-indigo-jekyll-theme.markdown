@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "스마트택배 앱 설문 플랫폼 프로젝트"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
