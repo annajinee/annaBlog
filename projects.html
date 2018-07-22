@@ -3,119 +3,42 @@ layout: page
 title: Projects
 ---
 <section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <div class="box_preview">
-                        <h4 class="box_tit">프로젝트 수행이력</h4>
-                        <ul>
-                            <li class="wrap_cont">
-                                <div class="inner_cont">
-                                    <div class="preview_cont" style="width:506px"><span class="screen_out">프로젝트명</span><strong class="emph_txt">비즈엠 웹 개발</strong></div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">시작일</span>2016-08-02</div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">종료일 </span>2016-12-29</div>
-                                    <div class="preview_cont" style="width:160px"><span class="tit_item">프로젝트 유형 </span>사내프로젝트</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">소속회사명 </span>스윗트래커</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">주사용기술 (서비스사업/스탭 직군은 본인의 주요 역할을 기입) </span>Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA, Git</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">프로젝트 수행 역할 </span>카카오 알림톡 발송을 위한 업체의 템플릿 관리 페이지입니다. 알림톡 발송 템플릿 관리를 주요 기능으로 사용자 인증(로그인/로그아웃), 회원가입, 회원정보, 이용상품, 충전내역,  Q&amp;A, 템플릿 관리, 공지사항 부분 Back-end와  Front-end 개발을 담당하였으며 알림톡 발송 실패시 문자 대체 발송 api를 연동 하였습니다.</div>
-                                </div>
-                            </li>
-                            <li class="wrap_cont">
-                                <div class="inner_cont">
-                                    <div class="preview_cont" style="width:506px"><span class="screen_out">프로젝트명</span><strong class="emph_txt">고객사 제공 관리자 통계 웹 페이지 개발</strong></div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">시작일</span>2017-02-02</div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">종료일 </span>2017-06-29</div>
-                                    <div class="preview_cont" style="width:160px"><span class="tit_item">프로젝트 유형 </span>사내프로젝트</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">소속회사명 </span>스윗트래커 </div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">주사용기술 (서비스사업/스탭 직군은 본인의 주요 역할을 기입) </span> Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Proxy, MySQL, MsSQL, Git</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">프로젝트 수행 역할 </span> 스윗트래커 배송정보를 이용하는 업체들에게 제공되는 관리자 웹 페이지 입니다. 배송 정보 및 통계 데이터를 확인 할 수 있습니다.  회원정보, 배송 조회, 미배송 조회 , 통계 생성 및 조회 (실 송장 비교율, 미배송율, 배송율) 및 정산을 위한 엑셀 다운로드 기능이 있으며 통계 생성 에이전트와 전체적인 웹 사이트 개발 (Front-End, Back-End) 및 구축을 담당 하였습니다. 현재 홈플러스, 홈앤쇼핑, 티몬, GSSHOP, 공영홈쇼핑, 미미박스에 제공되고 있습니다. </div>
-                                </div>
-                            </li>
-                            <li class="wrap_cont">
-                                <div class="inner_cont">
-                                    <div class="preview_cont" style="width:506px"><span class="screen_out">프로젝트명</span><strong class="emph_txt">홈픽- 택배 1시간 픽업 서비스</strong></div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">시작일</span>2017-07-02</div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">종료일 </span>2018-06-29</div>
-                                    <div class="preview_cont" style="width:160px"><span class="tit_item">프로젝트 유형 </span>외주</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">소속회사명 </span>줌마</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">주사용기술 (서비스사업/스탭 직군은 본인의 주요 역할을 기입) </span>Java, Spring Boot, JPA, MySQL, Oracle, RESTful API, 카카오 톡 자동 응답 API, 네이버 톡톡 자동 응답 API, Linux (CentOS), Git</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">프로젝트 수행 역할 </span>카카오 플러스 친구와 네이버 톡톡을 이용하여 신청하는 1시간 택배 픽업 서비스입니다. 카카오 톡 자동 응답 API와 네이버 톡톡 자동 응답 API를 이용한 사용자 부분 인터페이스 개발과 CJ 대한통운 택배사 연동 및 굿스플로 접수 API 연동을 담당하였습니다. 현재 해당 프로젝트 운영 지원 및 유지보수를 하고 있습니다. </div>
-                                </div>
-                            </li>
-                            <li class="wrap_cont">
-                                <div class="inner_cont">
-                                    <div class="preview_cont" style="width:506px"><span class="screen_out">프로젝트명</span><strong class="emph_txt">택배 접수 연계 및 반품 리펙토링</strong></div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">시작일</span>2017-08-02</div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">종료일 </span>2018-05-02</div>
-                                    <div class="preview_cont" style="width:160px"><span class="tit_item">프로젝트 유형 </span>사내프로젝트</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">소속회사명 </span>스윗트래커</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">주사용기술 (서비스사업/스탭 직군은 본인의 주요 역할을 기입) </span>Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Nginx, Proxy, Git</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">프로젝트 수행 역할 </span>택배사 (CJ 대한통운 , 로젠 택배, KG로지스, 우체국) 연동 및 택배 접수 연계 API를 개발 담당하였습니다. 반품 서비스는 유지보수를 위하여 기존 Java Project 에서 Spring boot로 변경 하며 raw query에서 ORM형식으로 코드 리펙토링 하였습니다. 현재 쇼핑엔티와 더블유쇼핑에서 사용하고 있으며 초기 개발 후 유지보수 및 운영을 하고 있습니다.  우체국의 경우 별도의 업체 관리가 필요하여 Angular2를 이용한 관리자 웹 페이지를 개발하였습니다. </div>
-                                </div>
-                            </li>
-                            <li class="wrap_cont">
-                                <div class="inner_cont">
-                                    <div class="preview_cont" style="width:506px"><span class="screen_out">프로젝트명</span><strong class="emph_txt">배송 추적 에이전트 통합 및 컨버팅 작업</strong></div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">시작일</span>2018-01-02</div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">종료일 </span>2018-02-05</div>
-                                    <div class="preview_cont" style="width:160px"><span class="tit_item">프로젝트 유형 </span>사내프로젝트</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">소속회사명 </span>스윗트래커</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">주사용기술 (서비스사업/스탭 직군은 본인의 주요 역할을 기입) </span>Java, Spring Boot, JPA, Restful API, MSSQL, MySQL, Linux (CentOS), Git, SVN</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">프로젝트 수행 역할 </span>유지보수를 위한 롯데홈쇼핑, 티몬, 홈플러스 제공 배송 추적 에이전트 통합 및 컨버팅 작업 입니다.  Pure Java를 Spring boot로 변환 (롯데 홈쇼핑) , PHP를 Spring boot로 변환 (티몬, 홈플러스) 하였습니다. </div>
-                                </div>
-                            </li>
-                            <li class="wrap_cont">
-                                <div class="inner_cont">
-                                    <div class="preview_cont" style="width:506px"><span class="screen_out">프로젝트명</span><strong class="emph_txt">스마트택배 앱 설문 플랫폼 프로젝트</strong></div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">시작일</span>2018-07-09</div>
-                                    <div class="preview_cont txt_date" style="width:99px"><span class="screen_out">종료일 </span>진행중</div>
-                                    <div class="preview_cont" style="width:160px"><span class="tit_item">프로젝트 유형 </span>사내프로젝트</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">소속회사명 </span>스윗트래커</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">주사용기술 (서비스사업/스탭 직군은 본인의 주요 역할을 기입) </span>Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git</div>
-                                </div>
-                                <div class="inner_cont">
-                                    <div class="preview_cont"><span class="tit_item">프로젝트 수행 역할 </span>온라인 구매자 패널을 활용한 서베이 프로젝트로 스마트 택배 앱 내에 닐슨서베이 설문을 작성을 유도하고 서베이몽키로 부터 설문결과를 수신하여 데이터를 제공하는 프로젝트입니다. 서베이 몽키 API연동 작업을 담당하며 스마트 택배 앱에서 사용자가 유입하여 설문 완료 시 설문 결과 수신 및 해당 아이디를 백 오피스로 전달하는 부분을 개발 하였습니다.</div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
+
+    <div class="item {% if post.star %}star{% endif %}">
+        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <aside>2018.07 ~ 진행중</aside>
+            <h3 class="title">스마트택배 앱 설문 플랫폼 프로젝트</h3>
+        </a>
+    </div>
+    <div class="item {% if post.star %}star{% endif %}">
+        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <aside>2018.01 ~ 2018.02</aside>
+            <h3 class="title">배송 추적 에이전트 통합 및 컨버팅 작업</h3>
+        </a>
+    </div>
+    <div class="item {% if post.star %}star{% endif %}">
+        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <aside>2017.08 ~ 2018.05</aside>
+            <h3 class="title">택배 접수 연계 및 반품 리펙토링</h3>
+        </a>
+    </div>
+    <div class="item {% if post.star %}star{% endif %}">
+        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <aside>2017.02 ~ 2017.06</aside>
+            <h3 class="title">홈픽- 택배 1시간 픽업 서비스</h3>
+        </a>
+    </div>
+    <div class="item {% if post.star %}star{% endif %}">
+        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <aside>2018.07 ~ 진행중</aside>
+            <h3 class="title">고객사 제공 관리자 통계 웹 페이지 개발</h3>
+        </a>
+    </div>
+    <div class="item {% if post.star %}star{% endif %}">
+        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <aside>2016.08 ~ 2016.12</aside>
+            <h3 class="title">비즈엠 웹 개발</h3>
+        </a>
+    </div>
+
 </section>
