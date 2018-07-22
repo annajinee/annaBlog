@@ -2,7 +2,7 @@
 title: "택배 접수 연계 및 반품 리펙토링"
 layout: post
 term: 2017.08 ~ 2018.05
-headerImage: false
+headerImage: true
 projects: true
 category: project
 externalLink: false
