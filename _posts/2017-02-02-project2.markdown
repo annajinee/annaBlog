@@ -1,7 +1,7 @@
 ---
 title: "고객사 제공 관리자 통계 웹 페이지 개발"
 layout: post
-term: 2016.08 ~ 2016.12
+term: 2017.02 ~ 2017.06
 headerImage: false
 projects: true
 category: project
