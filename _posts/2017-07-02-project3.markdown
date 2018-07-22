@@ -15,8 +15,8 @@ Java, Spring Boot, JPA, MySQL, Oracle, RESTful API, 카카오 톡 자동 응답 
 카카오 플러스 친구와 네이버 톡톡을 이용하여 신청하는 1시간 택배 픽업 서비스입니다.
 카카오 톡 자동 응답 API와 네이버 톡톡 자동 응답 API를 이용한 사용자 부분 인터페이스 개발과 CJ 대한통운 택배사 연동 및 굿스플로 접수 API 연동을 담당하였습니다.
 현재 해당 프로젝트 운영 지원 및 유지보수를 하고 있습니다.
-http://homepick.com/
-Kakao Plus : 홈픽
 
 ---
 
+http://homepick.com/
+Kakao Plus : 홈픽
