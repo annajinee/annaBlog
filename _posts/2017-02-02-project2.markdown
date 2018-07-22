@@ -1,0 +1,22 @@
+---
+title: "고객사 제공 관리자 통계 웹 페이지 개발"
+layout: post
+date: 2016.08 ~ 2016.12
+headerImage: false
+projects: true
+description: "survey monkey API 연동"
+category: project
+externalLink: false
+---
+
+주사용기술
+Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA, Git
+
+---
+
+카카오 알림톡 발송을 위한 업체의 템플릿 관리 페이지입니다.
+알림톡 발송 템플릿 관리를 주요 기능으로 사용자 인증(로그인/로그아웃), 회원가입, 회원정보, 이용상품, 충전내역,  Q&amp;A, 템플릿 관리, 공지사항 부분 Back-end와  Front-end 개발을 담당하였으며 알림톡 발송 실패시 문자 대체 발송 api를 연동 하였습니다.
+https://www.bizmsg.kr/
+
+---
+
