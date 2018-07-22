@@ -6,6 +6,7 @@ headerImage: false
 projects: true
 category: project
 externalLink: false
+image: ../assets/images/surveymonkey.png
 ---
 
 Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Nginx, Proxy, Git
