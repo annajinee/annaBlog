@@ -4,7 +4,6 @@ layout: post
 date: 2016.08 ~ 2016.12
 headerImage: false
 projects: true
-description: "survey monkey API 연동"
 category: project
 externalLink: false
 ---
