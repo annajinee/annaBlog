@@ -10,7 +10,6 @@ category: project
 externalLink: false
 ---
 
-주사용기술
 Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git
 
 ---

@@ -8,7 +8,6 @@ category: project
 externalLink: false
 ---
 
-주사용기술
 Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA, Git
 
 ---
