@@ -2,10 +2,11 @@
 title: "고객사 제공 관리자 통계 웹 페이지 개발"
 layout: post
 term: 2017.02 ~ 2017.06
-headerImage: false
+headerImage: true
 projects: true
 category: project
 externalLink: false
+image: ../assets/images/project2-1.png
 ---
 
 Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Proxy, MySQL, MsSQL, Git
@@ -18,3 +19,6 @@ Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Pro
 ---
 
 http://tracking-api.admin.sweettracker.net
+
+<img src="../assets/images/project2-2.png>
+<img src="../assets/images/project2-3.png>
