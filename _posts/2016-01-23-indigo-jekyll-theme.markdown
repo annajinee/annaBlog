@@ -1,7 +1,7 @@
 ---
 title: "스마트택배 앱 설문 플랫폼 프로젝트"
 layout: post
-date: 2016-01-23 22:10
+date: 2018.07 ~ 진행중
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
