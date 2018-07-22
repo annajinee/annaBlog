@@ -2,7 +2,7 @@
 title: "스마트택배 앱 설문 플랫폼 프로젝트"
 layout: post
 date: 2018.07 ~ 진행중
-image: assets/images/surveymonkey.png
+image: ../assets/images/surveymonkey.png
 headerImage: true
 projects: true
 description: "survey monkey API 연동"
