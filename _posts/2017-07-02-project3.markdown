@@ -8,13 +8,15 @@ category: project
 externalLink: false
 ---
 
-Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Proxy, MySQL, MsSQL, Git
+Java, Spring Boot, JPA, MySQL, Oracle, RESTful API, 카카오 톡 자동 응답 API, 네이버 톡톡 자동 응답 API, Linux (CentOS), Git
 
 ---
 
-스윗트래커 배송정보를 이용하는 업체들에게 제공되는 관리자 웹 페이지 입니다. 배송 정보 및 통계 데이터를 확인 할 수 있습니다.
-회원정보, 배송 조회, 미배송 조회 , 통계 생성 및 조회 (실 송장 비교율, 미배송율, 배송율) 및 정산을 위한 엑셀 다운로드 기능이 있으며 통계 생성 에이전트와 전체적인 웹 사이트 개발 (Front-End, Back-End) 및 구축을 담당 하였습니다. 현재 홈플러스, 홈앤쇼핑, 티몬, GSSHOP, 공영홈쇼핑, 미미박스에 제공되고 있습니다.
-http://tracking-api.admin.sweettracker.net/login/home
+카카오 플러스 친구와 네이버 톡톡을 이용하여 신청하는 1시간 택배 픽업 서비스입니다.
+카카오 톡 자동 응답 API와 네이버 톡톡 자동 응답 API를 이용한 사용자 부분 인터페이스 개발과 CJ 대한통운 택배사 연동 및 굿스플로 접수 API 연동을 담당하였습니다.
+현재 해당 프로젝트 운영 지원 및 유지보수를 하고 있습니다.
+http://homepick.com/
+Kakao Plus : 홈픽
 
 ---
 

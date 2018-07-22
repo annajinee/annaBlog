@@ -1,0 +1,19 @@
+---
+title: "택배 접수 연계 및 반품 리펙토링"
+layout: post
+term: 2017.08 ~ 2018.05
+headerImage: false
+projects: true
+category: project
+externalLink: false
+---
+
+Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Nginx, Proxy, Git
+
+---
+
+유지보수를 위한 롯데홈쇼핑, 티몬, 홈플러스 제공 배송 추적 에이전트 통합 및 컨버팅 작업 입니다.
+Pure Java를 Spring boot로 변환 (롯데 홈쇼핑) , PHP를 Spring boot로 변환 (티몬, 홈플러스) 하였습니다.
+
+---
+
