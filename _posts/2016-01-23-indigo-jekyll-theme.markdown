@@ -2,12 +2,10 @@
 title: "스마트택배 앱 설문 플랫폼 프로젝트"
 layout: post
 date: 2018.07 ~ 진행중
-tag: jekyll
 image: https://koppl.in/indigo/assets/images/surveymonkey.PNG
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "survey monkey API 연동"
 category: project
 externalLink: false
 ---
