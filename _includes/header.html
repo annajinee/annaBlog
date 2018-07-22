@@ -11,7 +11,8 @@
                 <h1 class="title">{{ site.name }}</h1>
             </a>
         <h2 class="description" style="color: lightgrey; font-weight: 200">{{ site.bio }}</h2>
-        <h2 class="description" style="font-size: 12px">현재 스마트 택배 앱을 제공하는 스윗트래커에서 서비스 플랫폼 파트에 재직 중에 있으며 서버 개발 및 배송 정보 서비스, 택배 접수, 반품 부분의 운영을 담당하고 있습니다.</h2>
+        <h2 class="description">현재 스마트 택배 앱을 제공하는 스윗트래커에서 서비스 플랫폼 파트에 재직 중에 있으며 서버 개발 및 배송 정보 서비스, 택배 접수, 반품 부분의 운영을 담당하고 있습니다.</h2>
+
         {% else %}
             <span class="link">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
