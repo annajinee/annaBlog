@@ -1,7 +1,7 @@
 ---
 title: "비즈엠 웹 개발"
 layout: post
-date: 2016.08 ~ 2016.12
+term: 2016.08 ~ 2016.12
 headerImage: false
 projects: true
 category: project
