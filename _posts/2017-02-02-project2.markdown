@@ -19,8 +19,8 @@ Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Pro
 ---
 
 사이트 주소 : http://tracking-api.admin.sweettracker.net
-<br>
+<br><br>
 <img src="../assets/images/project2-0.png">
-<br>
+<br><br>
 <img src="../assets/images/project2-2.png">
 <img src="../assets/images/project2-3.png">

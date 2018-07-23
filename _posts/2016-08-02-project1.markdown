@@ -19,9 +19,9 @@ Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA,
 ---
 
 사이트 주소 : https://www.bizmsg.kr/
-<br>
+<br><br>
 <img src="../assets/images/project1-0.png">
-<br>
+<br><br>
 <img src="../assets/images/project1-1.png">
 <img src="../assets/images/project1-2.png">
 <img src="../assets/images/project1-3.png">
