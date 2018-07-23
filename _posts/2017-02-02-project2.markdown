@@ -19,6 +19,6 @@ Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Pro
 ---
 
 http://tracking-api.admin.sweettracker.net
-
+<img src="../assets/images/project2-0.png">
 <img src="../assets/images/project2-2.png">
 <img src="../assets/images/project2-3.png">
