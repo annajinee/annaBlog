@@ -19,4 +19,4 @@ Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git
 
 ---
 
-참고 : https://developer.surveymonkey.com/api/v3/#webhooks
+참고 사이트 : https://developer.surveymonkey.com/api/v3/#webhooks
