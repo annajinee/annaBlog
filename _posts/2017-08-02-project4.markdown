@@ -38,7 +38,7 @@ Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Ngin
  <h5>접수 결과 값 폴링</h5>
 
  <pre>
- - pollingReception (접수 폴링) -> workerThread_Reception
+ - pollingReception (접수 폴링)
    1. 유효한 tier code에서 처리 상태에 따라 결과 값 전송
    2. 전송 후 정상 회신일 경우, 상태값 변경
  </pre>
@@ -81,7 +81,7 @@ Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Ngin
  <h5>맞교환 폴링</h5>
 
  <pre>
- - pollingExChange (접수 폴링) -> workerThread_Exchange
+ - pollingExChange (접수 폴링)
    1. 미처리일 경우, 접수 테이블에서 전 주문 건 정보 찾아 반품 처리
    2. 처리 완료 된 건들 결과 값 전송 후 DB 처리 (JSON call back)
  </pre>
