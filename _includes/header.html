@@ -16,29 +16,37 @@
         </h4>
         <ul class="skill-list"  style="font-weight: 100; font-size: small; color: #585858">
 
-            <h3>Language</h3>
+            <table>
+            <tr>Language</tr>
+            <td>
                 <img src="../assets/images/icon/devcon_java.jpg">
                 <img src="../assets/images/icon/decon_python.png">
                 <img src="../assets/images/icon/devcon_c.png">
                 <img src="../assets/images/icon/devcon_js.png">
                 <img src="../assets/images/icon/devcon_ts.png.png">
-            <h3>Framework&Tool</h3>
+            </td>
+                <tr>Framework&Tool</tr>
+           <td>
             <img src="../assets/images/icon/devcon_apache.gif">
             <img src="../assets/images/icon/devcon_spring.png">
             <img src="../assets/images/icon/devcon_springboot.png">
             <img src="../assets/images/icon/devcon_git.png">
             <img src="../assets/images/icon/devcon_angular2.png">
             <img src="../assets/images/icon/devcon_django.jpeg">
-            <h3>OS</h3>
+           </td>
+               <tr>OS</tr>
+                <td>
                 <img src="../assets/images/icon/devcon_android.jpg">
                 <img src="../assets/images/icon/devcon_linux.png">
                 <img src="../assets/images/icon/devcon_window.jpeg">
-            <h3>Database</h3>
-            <img src="../assets/images/icon/devcon_mysql.jpeg">
+                </td>
+                    <tr>Database</tr>
+            <td>
+                <img src="../assets/images/icon/devcon_mysql.jpeg">
             <img src="../assets/images/icon/devcon_mssql.jpg">
             <img src="../assets/images/icon/devcon_oracle.jpg">
-
-        </ul>
+            </td>
+            </table>
         {% else %}
             <span class="link">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
