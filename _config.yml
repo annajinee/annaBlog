@@ -8,7 +8,7 @@ bio: Full Stack Developer
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/rabit.gif
+#picture: assets/images/rabit.gif
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -61,12 +61,12 @@ authors:
         name: Anna Kim
         bio: Full Stack Developer
         external-image: true
-        picture: assets/images/anna.jpg
+#        picture:
 #    jamesfoster:
 #        name: Anna Foster
 #        bio: Full Stack Developer
 #        external-image: true
-#        picture: assets/images/anna.jpg
+#        picture:
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
