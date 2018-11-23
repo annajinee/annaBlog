@@ -1,8 +1,8 @@
 ---
-title: "Hello Baby"
+title: "Hello Baby - "
 layout: post
 date: 2018.10.27 ~ 2018.10-28
-image: /assets/images/digi00.png
+image: ../assets/images/digi00.png
 headerImage: false
 tag:
 - Kotlin
