@@ -4,9 +4,6 @@ layout: post
 date: 2018.10.27 ~ 2018.10-28
 image: ../assets/images/digi00.png
 headerImage: true
-tag:
-- Kotlin
-star: true
 category: blog
 description: 디지털헬스해커톤 참여
 ---
