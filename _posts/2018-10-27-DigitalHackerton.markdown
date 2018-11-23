@@ -3,7 +3,7 @@ title: "Hello Baby- 아빠 좋은 아침"
 layout: post
 date: 2018.10.27 ~ 2018.10-28
 image: ../assets/images/digi00.png
-headerImage: false
+headerImage: true
 tag:
 - Kotlin
 star: true
@@ -15,7 +15,7 @@ Kotlin, Spring Boot, JPA, RESTful API, Linux(Naver Cloud), Git, ngrok, Apiary
 
 ---
 
-2018.10.27~28 삼성서울병원에서 개최한 디지털 헬스 해커톤2018에 참여한 프로젝트로 여기서 백엔드를 담당하였습니다
+2018.10.27~28 삼성서울병원에서 개최한 디지털 헬스 해커톤2018에 참여한 프로젝트로 백엔드를 담당하였습니다
 
 ### 서비스 안내
 "아빠 좋은 아침"은 하드웨어 기기와 모바일 어플리케이션으로 구성되며 산모와 남편을 대상으로 한 서비스입니다.
