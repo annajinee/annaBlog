@@ -5,8 +5,8 @@ date: 2018.10.27 ~ 2018.10-28
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- Kotlin
+- Java
 star: true
 category: blog
 description: 디지털헬스해커톤 참여
