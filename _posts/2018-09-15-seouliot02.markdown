@@ -5,8 +5,7 @@ date: 2018.09.15 ~ 2018.09-16
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- Java
 star: true
 category: blog
 description: 2018 서울IOT해커톤 참여
