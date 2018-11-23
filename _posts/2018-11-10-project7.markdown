@@ -6,7 +6,6 @@ headerImage: true
 projects: true
 category: project
 externalLink: false
-image: ../assets/images/surveymonkey.png
 ---
 
 Java, Spring Boot, JPA, RESTful API, MySQL, Linux (CentOS), Git, Elasticsearch
@@ -33,5 +32,5 @@ Java, Spring Boot, JPA, RESTful API, MySQL, Linux (CentOS), Git, Elasticsearch
 
 ---
 
-<img src="../assets/images/project6-0.png"> <br><br>
+<br><br>
 
