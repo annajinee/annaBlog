@@ -29,5 +29,3 @@ Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA,
 <img src="../assets/images/project1-5.png">
 <img src="../assets/images/project1-6.png">
 <img src="../assets/images/project1-7.png">
-
----
