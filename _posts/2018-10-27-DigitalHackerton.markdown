@@ -2,13 +2,11 @@
 title: "Hello Baby- 아빠 좋은 아침"
 layout: post
 date: 2018.10.27 ~ 2018.10-28
-image: ../assets/images/digi00.png
 headerImage: true
 tag:
 - side
-star: true
 category: blog
-description: 디지털헬스해커톤 참여
+image: ../assets/images/digi00.png
 ---
 
 Kotlin, Spring Boot, JPA, RESTful API, Linux(Naver Cloud), Git, ngrok, Apiary
