@@ -2,11 +2,10 @@
 title: "Hello Baby"
 layout: post
 date: 2018.10.27 ~ 2018.10-28
-image: /assets/images/markdown.jpg
+image: /assets/images/digi00.png
 headerImage: false
 tag:
 - Kotlin
-- Java
 star: true
 category: blog
 description: 디지털헬스해커톤 참여
@@ -21,3 +20,11 @@ Kotlin, Spring Boot, JPA, RESTful API, Linux(Naver Cloud), Git, ngrok, Apiary
 서베이 몽키 API연동 작업을 담당하며 스마트 택배 앱에서 사용자가 유입하여 설문 완료 시 설문 결과 수신 및 해당 아이디를 백 오피스로 전달하는 부분을 개발 하였습니다
 
 ---
+
+  <a href="../assets/files/hellobaby.pdf" target="_blank" ><i class="zmdi zmdi-download"></i>pdf보기</a>
+
+  <img src="../assets/images/digi01.png">
+  <img src="../assets/images/digi02.png">
+  <img src="../assets/images/digi03.png">
+  <img src="../assets/images/digi04.png">
+  <img src="../assets/images/digi05.png">
