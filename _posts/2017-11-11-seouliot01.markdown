@@ -1,0 +1,20 @@
+---
+title: "재난 시스템"
+layout: post
+date: 2017.11.11 ~ 2017.11-12
+image: /assets/images/markdown.jpg
+headerImage: false
+star: true
+tag:
+- side
+category: blog
+description: 2017 서울IOT해커톤 참여
+---
+
+Java, Spring Boot, JPA, RESTful API, Linux(AWS), Git
+
+---
+
+
+
+---
