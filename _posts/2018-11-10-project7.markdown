@@ -1,5 +1,5 @@
 ---
-title: "스마트택배 앱 쇼핑다이어리 로그인 개선"
+title: "스마트택배 앱 쇼핑 다이어리 로그인 개선"
 layout: post
 term: 2018.11 ~ 진행중
 headerImage: true
