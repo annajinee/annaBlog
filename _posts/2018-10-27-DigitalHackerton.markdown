@@ -9,7 +9,7 @@ category: blog
 image: ../assets/images/digi00.png
 ---
 
-Kotlin, Spring Boot, JPA, RESTful API, Linux(Naver Cloud), Git, ngrok, Apiary
+Kotlin, Spring Boot, JPA, RESTful API, FCM, Linux(Naver Cloud), Git, ngrok, Apiary
 
 ---
 
