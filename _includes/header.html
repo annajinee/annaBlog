@@ -13,11 +13,13 @@ or page.title == "Tags"
         주로 Java 기반의 RESTful API 개발을 하였으며
         서버 대량 처리와 트래픽 처리, Java-Spring Boot 및 Python-Django를 이용한 웹 개발 경험이 있습니다.
     </h4>
-    {% else if page.title == "Tags" %}
+    {% endif %}
+    {% if page.title == "Tags" %}
     <h4 class="description" style="font-weight: 100; font-size: small; color: #585858">
         해커톤 참여 등 사이드로 진행한 프로젝트입니다.
     </h4>
-    {% else %}
+    {% endif %}
+    {% if page.title == "Home" %}
     <span class="link">
                 <!--<img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />-->
         <h1 class="title" style="color: #F5D0A9 !important;">{{ site.name }}</h1>
