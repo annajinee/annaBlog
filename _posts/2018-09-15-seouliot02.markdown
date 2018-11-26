@@ -11,7 +11,7 @@ category: blog
 description: 2018 서울IOT해커톤 참여
 ---
 
-Java, Spring Boot, JPA, RESTful API, FCM, Linux(AWS), MongoDB(GeoJSON), Mbed Cloud(arm), Git
+Java, Spring Boot, JPA, RESTful API, Linux(AWS), MongoDB(GeoJSON), Mbed Cloud(arm), Git
 
 ---
 
