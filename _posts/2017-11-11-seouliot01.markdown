@@ -28,9 +28,6 @@ Angular2, TypeScript, HTML5
 
 ---
 
-  <img src="../assets/images/seouliot01-01.png">
-  <img src="../assets/images/seouliot01-02.png">
-  <img src="../assets/images/seouliot01-03.png">
   <img src="../assets/images/seouliot01-04.png">
   <img src="../assets/images/seouliot01-05.png">
   <img src="../assets/images/seouliot01-06.png">
