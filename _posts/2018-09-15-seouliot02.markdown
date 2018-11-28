@@ -22,8 +22,7 @@ Java, Spring Boot, JPA, RESTful API, Linux(AWS), MongoDB(GeoJSON), Mbed Cloud(ar
 GPS와 임펙트 센서를 이용하여 해당 지점에서의 기준치 이상의 충격이 발생할 경우 충돌 부위, 현재 위치, 시간 등의 데이터를 반경 5km 이내 운전자들에게 알림을 전송합니다.
 
 #### 수상
-- 장려상
-  <a href="../assets/files/seouliot_prize.pdf" target="_blank" ><i class="zmdi zmdi-download"></i>상장_pdf</a>
+- <a href="../assets/files/seouliot_prize.pdf" target="_blank" ><i class="zmdi zmdi-download"></i>장려상</a>
 ---
 
 포스팅 : http://annajinee.tistory.com/32 <br>
