@@ -23,7 +23,7 @@ GPS와 임펙트 센서를 이용하여 해당 지점에서의 기준치 이상�
 
 #### 수상
 - 장려상
-
+  <a href="../assets/files/seouliot_prize.pdf" target="_blank" ><i class="zmdi zmdi-download"></i>상장_pdf</a>
 ---
 
 포스팅 : http://annajinee.tistory.com/32 <br>
