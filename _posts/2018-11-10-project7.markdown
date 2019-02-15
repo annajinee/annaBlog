@@ -18,6 +18,7 @@ Java, Spring Boot, JPA, RESTful API, MySQL, Linux (CentOS), Git
 - 월 5000 ~ 7000만건의 데이터를 수집할 수 있는 서버 및 데이터베이스 구축
 - 각각의 쇼핑몰마다 JS를 내려줄 API 개발
 - 각각의 페이지마다 호출 할 수 있는 API 개발
+- 쇼핑몰 별 일일 통계 데이터 생성 및 리포트 개발
 
 ---
 
