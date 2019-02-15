@@ -60,7 +60,7 @@ authors:
     johndoe:
         name: Anna Kim
         bio: Full Stack Developer
-        external-image: true
+        external-image: false
 #        picture:
 #    jamesfoster:
 #        name: Anna Foster
