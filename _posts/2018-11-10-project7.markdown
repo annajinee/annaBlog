@@ -1,7 +1,7 @@
 ---
 title: "스마트택배 앱 쇼핑 다이어리 로그인 개선"
 layout: post
-term: 2018.12 ~ 진행중
+term: 2018.12 ~ 2019.03
 headerImage: true
 projects: true
 category: project
