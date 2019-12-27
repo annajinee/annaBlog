@@ -1,5 +1,5 @@
 ---
-title: "기업 통합 주식 정보 사이트"
+title: "[외주] 기업 통합 주식 정보 사이트"
 layout: post
 date: 2020.01.06 ~ 2020.03-28
 headerImage: false
