@@ -20,4 +20,3 @@ Java, Spring Boot, JPA, RESTful API, MySQL, Linux (CentOS), Git, Chrome Driver
 ---
 
 <br><br>
-
