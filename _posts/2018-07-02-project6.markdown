@@ -21,6 +21,6 @@ Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git
 
 개발 참고 사이트 : https://developer.surveymonkey.com/api/v3/#webhooks
 <br><br>
-<img src="../assets/images/project6-0.png"> <br>
+<img src="../assets/images/project6-0.png"> <br><br>
 <img src="../assets/images/surveymonkey.png">
 
