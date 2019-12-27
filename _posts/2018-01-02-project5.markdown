@@ -1,5 +1,5 @@
 ---
-title: "배송 추적 에이전트 통합 및 컨버팅 작업"
+title: "배송 추적 에이전트 통합 및 컨버팅"
 layout: post
 term: 2018.01 ~ 2018.02
 headerImage: false

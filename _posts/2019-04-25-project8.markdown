@@ -1,5 +1,5 @@
 ---
-title: "티몬 딜 관리 개발 및 파트너 센터 사이트 유지보수"
+title: "티몬 딜 관리 개발 및 파트너 센터 유지보수"
 layout: post
 term: 2019.04 ~ 2019.12
 headerImage: false
