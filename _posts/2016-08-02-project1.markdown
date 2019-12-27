@@ -13,8 +13,8 @@ Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA,
 
 ---
 
-림톡 발송 템플릿 관리 웹 사이트 개발 (2016.8- 12)
-문자 발송 Agent연동 개발(2016.12)
+- 알림톡 발송 템플릿 관리 웹 사이트 개발 (2016.8- 12)
+- 문자 발송 Agent연동 개발(2016.12)
 
 ---
 
