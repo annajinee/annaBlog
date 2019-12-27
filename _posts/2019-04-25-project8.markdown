@@ -1,22 +1,23 @@
 ---
-title: "스마트택배 앱 쇼핑 다이어리 로그인 개선"
+title: "티몬 딜 관리 개발 및 파트너 센터 사이트 유지보수"
 layout: post
-term: 2018.12 ~ 2019.03
-headerImage: true
+term: 2019.04 ~ 2019.12
+headerImage: false
 projects: true
 category: project
 externalLink: false
 ---
 
-Java, Spring Boot, JPA, RESTful API, MySQL, Linux (CentOS), Git, Chrome Driver
+Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git, Kibana, ElasticSearch
+PHP, JavaScript, JQuery
 
 ---
 
-앱 내 타 쇼핑몰 로그인 시 기종 및 버전 별 실행 히스토리와 에러사항 수집 및 로그인 스크립트 유효성 모니터링
-- OS버전 및 앱 버전에 따른 쇼핑몰 별 스크립트 분기 처리
-- 쇼핑몰 로그인 성공률 일별 통계 데이터 생성 및 담당자 메일 레포트 개발
-- 쇼핑몰 별 로그인 스크립트 모니터링 개발 (크롤링 스케쥴로 스크립트 변경 여부 확인)
+딜 관리 개발 담당 (2019.04 ~2019.12)
+- 티몬 딜 관리 개발
+- 티몬 스토어 파트너센터 사이트 유지보수
 
 ---
 
+https://spc.tmon.co.kr
 <br><br>
