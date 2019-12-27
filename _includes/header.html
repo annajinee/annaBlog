@@ -1,7 +1,7 @@
 {% if page.title == "Home"
 or page.title == "Blog"
 or page.title == "Projects"
-or page.title == "Tags"
+or page.title == "Side"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
@@ -14,7 +14,7 @@ or page.title == "Tags"
         Java-Spring Boot(Spring) 및 Python-Django를 이용한 웹 개발 경험이 있습니다.
     </h4>
     {% endif %}
-    {% if page.title == "Tags" %}
+    {% if page.title == "Side" %}
     <!--<h1 class="title" style="color: #F5D0A9">{{ site.name }}</h1>-->
     <!--<h2 class="description" style="font-weight: 200">{{ site.bio }}</h2>-->
     <h4 class="description" style="font-weight: 100; font-size: small; color: #585858">
