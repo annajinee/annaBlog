@@ -1,5 +1,5 @@
 ---
-title: "비즈엠 웹 개발"
+title: "알림톡 발송 관리 사이트 개발"
 layout: post
 term: 2016.08 ~ 2016.12
 headerImage: true
@@ -13,12 +13,12 @@ Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA,
 
 ---
 
-카카오 알림톡 발송을 위한 업체의 템플릿 관리 페이지입니다.
-알림톡 발송 템플릿 관리를 주요 기능으로 사용자 인증(로그인/로그아웃), 회원가입, 회원정보, 이용상품, 충전내역,  Q&amp;A, 템플릿 관리, 공지사항 부분 Back-end와  Front-end 개발을 담당하였으며 알림톡 발송 실패시 문자 대체 발송 api를 연동 하였습니다.
+림톡 발송 템플릿 관리 웹 사이트 개발 (2016.8- 12)
+- 문자 발송 Agent연동 개발(2016.12)
+사이트 주소 : https://www.bizmsg.kr/
 
 ---
 
-사이트 주소 : https://www.bizmsg.kr/
 <br><br>
 <img src="../assets/images/project1-0.png">
 <br><br>
