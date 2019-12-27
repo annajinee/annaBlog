@@ -1,5 +1,5 @@
 ---
-title: "비즈엠- 알림톡 발송 관리 사이트 신규개발"
+title: "비즈엠- 알림톡 발송 관리 사이트 개발"
 layout: post
 term: 2016.08 ~ 2016.12
 headerImage: false

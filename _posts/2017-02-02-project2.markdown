@@ -1,5 +1,5 @@
 ---
-title: "고객사 제공 어드민 사이트 신규개발"
+title: "고객사 제공 어드민 사이트 개발"
 layout: post
 term: 2017.02 ~ 2017.06
 headerImage: false
