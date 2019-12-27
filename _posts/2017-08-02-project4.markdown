@@ -2,7 +2,7 @@
 title: "택배 접수 연계 및 반품 리펙토링"
 layout: post
 term: 2017.08 ~ 2018.05
-headerImage: true
+headerImage: false
 projects: true
 category: project
 externalLink: false
@@ -21,3 +21,5 @@ Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Ngin
 
 <img src="../assets/images/project4-0.png"><br>
 <br>
+<img src="../assets/images/recept.png"><br>
+

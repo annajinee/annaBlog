@@ -2,7 +2,7 @@
 title: "홈픽- 택배 1시간 픽업 서비스"
 layout: post
 term: 2017.07 ~ 2018.06
-headerImage: true
+headerImage: false
 projects: true
 category: project
 externalLink: false
@@ -24,6 +24,7 @@ http://homepick.com/
 카카오 플러스친구 : 홈픽
 <img src="../assets/images/project3-0.png">
 <br>
+<img src="../assets/images/project3.png">
 
 
 

@@ -2,7 +2,7 @@
 title: "고객사 제공 어드민 사이트 개발"
 layout: post
 term: 2017.02 ~ 2017.06
-headerImage: true
+headerImage: false
 projects: true
 category: project
 externalLink: false
@@ -23,5 +23,6 @@ Spring Boot, JPA, Angular2,  Java, HTML5, Typescript, Linux (CentOS), Nginx, Pro
 <br><br>
 <img src="../assets/images/project2-0.png">
 <br><br>
+<img src="../assets/images/project2-1.png">
 <img src="../assets/images/project2-2.png">
 <img src="../assets/images/project2-3.png">

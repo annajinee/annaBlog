@@ -2,7 +2,7 @@
 title: "스마트택배 앱 설문 플랫폼 프로젝트"
 layout: post
 term: 2018.07 ~ 2018.08
-headerImage: true
+headerImage: false
 projects: true
 category: project
 externalLink: false
@@ -21,4 +21,5 @@ Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git
 
 개발 참고 사이트 : https://developer.surveymonkey.com/api/v3/#webhooks
 <img src="../assets/images/project6-0.png"> <br><br>
+<img src=".../assets/images/surveymonkey.png">
 

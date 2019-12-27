@@ -2,7 +2,7 @@
 title: "알림톡 발송 관리 사이트 개발"
 layout: post
 term: 2016.08 ~ 2016.12
-headerImage: true
+headerImage: false
 image: ../assets/images/project1.png
 projects: true
 category: project
@@ -29,3 +29,4 @@ Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA,
 <img src="../assets/images/project1-5.png">
 <img src="../assets/images/project1-6.png">
 <img src="../assets/images/project1-7.png">
+<img src="../assets/images/project1.png">
