@@ -24,7 +24,7 @@ http://homepick.com/
 카카오 플러스친구 : 홈픽
 <img src="../assets/images/project3-0.png">
 <br>
-<img src="../assets/images/project3.png">
+<img src="../assets/images/project3.jpg">
 
 
 
