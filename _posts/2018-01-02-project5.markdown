@@ -12,7 +12,7 @@ Java, Spring Boot, JPA, Restful API, MSSQL, MySQL, Linux (CentOS), Git, SVN
 
 ---
 
-- 롯데홈쇼핑, 티몬, 홈플러스 제공 배송 추적 에이전트 통합 및 컨버팅 작업 (2018.01 ~ 02)
+롯데홈쇼핑, 티몬, 홈플러스 제공 배송 추적 에이전트 통합 및 컨버팅 작업 (2018.01 ~ 02)
 
 ---
 

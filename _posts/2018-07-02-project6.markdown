@@ -14,8 +14,8 @@ Java, Spring Boot, JPA, RESTful API, SurKeyMonkey API, Linux (CentOS), Git
 ---
 
 
-- Survey Monkey API 연동
-- 설문 완료 시 설문 결과 수신 및 해당 아이디를 백 오피스로 전달
+Survey Monkey API 연동
+설문 완료 시 설문 결과 수신 및 해당 아이디를 백 오피스로 전달
 
 ---
 
