@@ -9,7 +9,7 @@ category: blog
 
 ---
 
-React, Java, SpringBoot
+Vue.js, Java, SpringBoot
 
 ---
 
