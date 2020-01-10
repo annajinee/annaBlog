@@ -1,0 +1,25 @@
+---
+title: "택배 접수 연계 및 반품 리펙토링"
+layout: post
+term: 2017.08 ~ 2018.05
+headerImage: false
+projects: true
+category: project
+externalLink: false
+image: ../assets/images/recept.png
+---
+
+Java, JPA, RESTful API, MySQL, HTML5, TypeScript, Angular2, Linux (CentOS), Nginx, Proxy, Git
+
+---
+
+- 택배 접수 연계API 개발, 택배사 연동(CJ대한통운, 로젠택배, KG로지스, 우 체국) 개발 (2017.08-12)
+- 반품 연계 부분 코드 리펙토링 (기존의 raw query를 spring JPA, ORM방식으 로 변경)
+- 우체국 사용자용 관리자 웹 페이지 개발 (2017.09)
+
+---
+
+<img src="../assets/images/project4-0.png"><br>
+<br><br>
+<img src="../assets/images/recept.png"><br>
+

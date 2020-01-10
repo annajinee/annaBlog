@@ -1,0 +1,79 @@
+{% if page.title == "Home"
+or page.title == "Blog"
+or page.title == "Projects"
+or page.title == "Tags"
+%}{% assign showHeader = true %}{% endif %}
+
+{% if showHeader == true %}
+<header class="header-home {% if site.animation %}animated{% endif %}">
+    {% if page.title == "Projects" %}
+    <!--<h1 class="title" style="color: #F5D0A9">{{ site.name }}</h1>-->
+    <!--<h2 class="description" style="font-weight: 200">{{ site.bio }}</h2>-->
+    <h4 class="description" style="font-weight: 100; font-size: small; color: #585858">
+        주로 Java 기반의 RESTful API 개발을 하였으며
+        Java-Spring Boot(Spring) 및 Python-Django를 이용한 웹 개발 경험이 있습니다.
+    </h4>
+    {% endif %}
+    {% if page.title == "Tags" %}
+    <!--<h1 class="title" style="color: #F5D0A9">{{ site.name }}</h1>-->
+    <!--<h2 class="description" style="font-weight: 200">{{ site.bio }}</h2>-->
+    <h4 class="description" style="font-weight: 100; font-size: small; color: #585858">
+        해커톤 및 외주로 진행한 프로젝트 입니다
+    </h4>
+    {% endif %}
+    {% if page.title == "Home" %}
+    <span class="link">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+
+        <h1 class="title" style="color: #F5D0A9 !important;">{{ site.name }}</h1>
+        <!--<h2 class="description" style="font-weight: 200; color: #848484; font-size: large">{{ site.bio }}</h2>-->
+        <!--<h3 class="description" style="font-weight: 100; font-size: small; color: #555555"> RESTful API / Spring boot / Django / Angular2 </h3>-->
+                 <h4 class="description" style="font-weight: 100; font-size: small; color: #555555">아래 "Projects" 에서 프로젝트 수행 이력들을 보실 수 있습니다</h4>
+
+<!--<table class="skills" style="padding-top: 5%; padding-bottom: 5%">-->
+    <!--<tr>-->
+        <!--<th style="width: 200px; font-size: small; font-weight: 100">Language</th>-->
+        <!--<th style="width: 200px; font-size: small; font-weight: 100">Framework & Tool</th>-->
+        <!--<th style="width: 200px; font-size: small; font-weight: 100">OS</th>-->
+        <!--<th style="width: 200px; font-size: small; font-weight: 100">Database</th>-->
+    <!--</tr>-->
+    <!--<tr>-->
+        <!--<td>-->
+            <!--<img src="../assets/images/icon/devcon_java.jpg" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/decon_python.png" style="width: 50px">-->
+
+            <!--<img src="../assets/images/icon/devcon_js.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_ts.png" style="width: 50px">-->
+        <!--</td>-->
+        <!--<td>-->
+            <!--<img src="../assets/images/icon/devcon_springboot.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_git.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_apache.gif" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_ninx.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_angular2.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_django.jpeg" style="width: 50px">-->
+        <!--</td>-->
+
+        <!--<td>-->
+            <!--<img src="../assets/images/icon/devcon_linux.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_mac.png" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_window.jpeg" style="width: 50px">-->
+        <!--</td>-->
+
+        <!--<td>-->
+            <!--<img src="../assets/images/icon/devcon_mysql.jpeg" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_mssql.jpg" style="width: 50px">-->
+            <!--<img src="../assets/images/icon/devcon_oracle.jpg" style="width: 50px">-->
+        <!--</td>-->
+    <!--</tr>-->
+<!--</table>-->
+
+            </span>
+    {% endif %}
+
+    {% include social-links.html %}
+
+</header>
+{% endif %}
+
+{% include nav.html %}

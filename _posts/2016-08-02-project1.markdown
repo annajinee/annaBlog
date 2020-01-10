@@ -1,0 +1,32 @@
+---
+title: "비즈엠- 알림톡 발송 관리 사이트 개발"
+layout: post
+term: 2016.08 ~ 2016.12
+headerImage: false
+image: ../assets/images/project1.png
+projects: true
+category: project
+externalLink: false
+---
+
+Python, Django, HTML5, JavaScript, JQuery, MySQL, MSSQL, Java, Spring Boot, JPA, Git
+
+---
+
+- 알림톡 발송 템플릿 관리 웹 사이트 개발 (2016.8- 12)
+- 문자 발송 Agent연동 개발(2016.12)
+
+---
+
+사이트 주소 : https://www.bizmsg.kr/
+<br><br>
+<img src="../assets/images/project1-0.png">
+<br><br>
+<img src="../assets/images/project1-1.png">
+<img src="../assets/images/project1-2.png">
+<img src="../assets/images/project1-3.png">
+<img src="../assets/images/project1-4.png">
+<img src="../assets/images/project1-5.png">
+<img src="../assets/images/project1-6.png">
+<img src="../assets/images/project1-7.png">
+<img src="../assets/images/project1.png">

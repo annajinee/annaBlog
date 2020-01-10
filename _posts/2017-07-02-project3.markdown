@@ -1,0 +1,32 @@
+---
+title: "홈픽- 택배 1시간 픽업 서비스 개발"
+layout: post
+term: 2017.07 ~ 2018.06
+headerImage: false
+projects: true
+category: project
+externalLink: false
+image: ../assets/images/project3.jpg
+
+---
+
+Java, Spring Boot, JPA, MySQL, Oracle, RESTful API, 카카오 톡 자동 응답 API, 네이버 톡톡 자동 응답 API, Linux (CentOS), Git
+
+---
+
+- 카카오톡,네이버 톡톡 자동응답 API사용자 쪽 연동 개발 (2017.07)
+- CJ대한통운 접수 연동 개발 (2018.03)
+- 굿스플로 접수 연동 개발 (2018.06)
+
+---
+
+http://homepick.com/ 
+<br>
+카카오 플러스친구 : 홈픽
+<br><br>
+<img src="../assets/images/project3-0.png">
+<br><br>
+<img src="../assets/images/project3.jpg">
+
+
+

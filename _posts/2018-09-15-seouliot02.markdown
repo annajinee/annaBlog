@@ -1,0 +1,37 @@
+---
+title: "[해커톤] 도로 위 위험 안내 서비스"
+layout: post
+date: 2018.09.15 ~ 2018.09-16
+image: /assets/images/markdown.jpg
+headerImage: false
+star: true
+tag:
+- side
+category: blog
+description: 2018 서울IOT해커톤 참여
+---
+
+Java, Spring Boot, JPA, RESTful API, Linux(AWS), MongoDB(GeoJSON), Mbed Cloud(arm), Git
+
+---
+
+2018.09.15~16 서울산업진흥원과 서울시설공단에서 주최한 서울 IOT해커톤2018에 참여한 프로젝트로 서버 백엔드를 담당하여 Mbed Cloud 연동 및 사고 시 근접 지점 확인 및 알림 서비스 개발
+
+#### 서비스 안내
+도로 위 포트홀이나 충돌사고가 발생 시 해당 지점에서 2차 사고가 빈번하게 발생되어 이를 방지하기 위한 솔루션입니다.
+GPS와 임펙트 센서를 이용하여 해당 지점에서의 기준치 이상의 충격이 발생할 경우 충돌 부위, 현재 위치, 시간 등의 데이터를 반경 5km 이내 운전자들에게 알림을 전송합니다.
+
+#### 수상
+- <a href="../assets/files/seouliot_prize.pdf" target="_blank" >장려상</a>
+
+---
+
+포스팅 : http://annajinee.tistory.com/32 <br>
+
+
+  <img src="../assets/images/seouliot02-01.png">
+  <img src="../assets/images/seouliot02-02.png">
+  <img src="../assets/images/seouliot02-03.png">
+  <img src="../assets/images/seouliot02-04.png">
+
+---
