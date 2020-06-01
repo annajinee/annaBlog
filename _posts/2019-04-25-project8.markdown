@@ -23,8 +23,8 @@ Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git, PHP, JavaScript
 > Java Angular5, TypeScript
 > Php, JavaScript, JQuery
 
-<img src="../assets/images/project8-0.PNG> <br>
-<img src="../assets/images/project8-1.PNG> <br>
+<img src="../assets/images/project8-0.PNG/>
+<img src="../assets/images/project8-1.PNG/>
 
 <h4>SPC 딜 등록 탭 일원화</h4>
 - 딜등록 탭 일원화, 폴더블 UI/UX적용
@@ -32,7 +32,7 @@ Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git, PHP, JavaScript
 - 자동 임시저장 기능 제공(매 10분)
 > Java Angular5, TypeScript
   
-<img src="../assets/images/project8-2.PNG> <br>
+<img src="../assets/images/project8-2.PNG/>
 
 ---
 
