@@ -1,7 +1,7 @@
 ---
 title: "티몬 외부 연동 개발 및 운영"
 layout: post
-term: 2020.1 ~ 현재
+term: 2020.01 ~ 2020.06
 headerImage: false
 projects: true
 category: project
