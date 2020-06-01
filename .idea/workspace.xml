@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbb6070b-3668-4e42-bfd3-a25ffab153a2" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/assets/images/project8-0.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project8-1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/project8-2.PNG" afterDir="false" />
+    <list default="true" id="dbb6070b-3668-4e42-bfd3-a25ffab153a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-10-10-project10.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-04-25-project8.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-25-project8.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-27-freelance.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-27-freelance.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-28-project9.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-28-project9.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project8-0.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/project10-0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project8-1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/project10-1.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,26 +21,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-              <folding>
-                <element signature="n#style#0;n#h4#1;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#span#0;n#header#0;n#!!top" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-10-project7.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/icons.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/author.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -56,25 +45,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/style.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-25-project8.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="301">
-                <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+              <first_editor relative-caret-position="494">
+                <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-28-project9.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="475">
+                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-10-10-project10.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="684">
+                <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/project10-1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/project10-0.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/project9-9.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -97,15 +115,6 @@
                 <caret line="26" selection-start-line="26" selection-end-line="26" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -154,6 +163,8 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/2019-12-27-freelance.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-04-25-project8.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-28-project9.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-10-project10.markdown" />
       </list>
     </option>
   </component>
@@ -207,43 +218,6 @@
               <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="annajinee" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="annajinee" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="_sass" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="annajinee" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="annajinee" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="annajinee" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="annajinee" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="annajinee" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="annajinee" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="annajinee" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="annajinee" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="com" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -256,7 +230,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -269,6 +243,7 @@
       <recent name="C:\Users\annajk\Desktop\annajinee\assets\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\annajk\Desktop\annajinee\_posts" />
       <recent name="C:\Users\annajk\Desktop\annajinee.github.com\_posts" />
       <recent name="C:\Users\annajk\Desktop\annajinee.github.com\assets\files" />
     </key>
@@ -299,7 +274,7 @@
       <workItem from="1577409648996" duration="13030000" />
       <workItem from="1577668342215" duration="238000" />
       <workItem from="1577949800889" duration="699000" />
-      <workItem from="1590993817807" duration="808000" />
+      <workItem from="1590993817807" duration="3326000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1577426281592</created>
@@ -385,16 +360,38 @@
       <option name="project" value="LOCAL" />
       <updated>1577433669628</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <created>1590994632208</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590994632208</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1590994770795</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590994770795</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1590995936886</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590995936886</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25138000" />
+    <option name="totallyTimeSpent" value="27656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,7 +408,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -583,16 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-10-project7.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -621,16 +608,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-27-freelance.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -669,11 +646,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-10-project7.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/project10-0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/project9-9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/project10-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-27-freelance.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="418">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-25-project8.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="301">
-            <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+          <first_editor relative-caret-position="494">
+            <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-28-project9.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-10-project10.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="684">
+            <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           </first_editor>
           <second_editor />
         </state>

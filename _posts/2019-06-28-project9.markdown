@@ -11,14 +11,21 @@ externalLink: false
 Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git
 
 ---
-
+[개발 부분]
 - 딜등록 탭 일원화, 폴더블 UI/UX적용
 - 임시저장 필수항목완화
 - 자동 임시저장 기능 제공(매 10분)
 
+[As-Is]
+- 현황 : 기본정보/ 배송정보/ 옵션정보/ 컨텐츠정보 탭으로 분리되어 있음
+- 이슈 : 파트너가 딜 등록시 여러탭을 이동하여야하고 임시저장등의 이슈 발생
+
+[To-Be] 
+- 개선 방향 : 딜등록 탭 일원화 및 폴더블 UI/UX 적용.
+- 딜등록 탭 일원화 및 탭별 접거나, 펼치기 가능
 
 ---
 
 https://spc.tmon.co.kr
 <br><br>
-<img src="../assets/images/project9-0.PNG/>
+<img src="../assets/images/project9-0.png/>
