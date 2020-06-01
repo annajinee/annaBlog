@@ -16,6 +16,24 @@ Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git, PHP, JavaScript
 - 티몬 딜 관리 개발
 - 티몬 스토어 파트너센터 사이트 유지보수
 
+<h4>SPC 상품구조 개선</h4>
+> Java Angular5, TypeScript
+
+<h4>파트너 센터 페이지 별 별점주기 개발</h4>
+> Java Angular5, TypeScript
+> Php, JavaScript, JQuery
+
+<img src="../assets/images/project8-0.PNG> <br>
+<img src="../assets/images/project8-1.PNG> <br>
+
+<h4>SPC 딜 등록 탭 일원화</h4>
+- 딜등록 탭 일원화, 폴더블 UI/UX적용
+- 임시저장 필수항목완화
+- 자동 임시저장 기능 제공(매 10분)
+> Java Angular5, TypeScript
+  
+<img src="../assets/images/project8-2.PNG> <br>
+
 ---
 
 www.tmon.co.kr/‎
