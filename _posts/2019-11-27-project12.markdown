@@ -9,7 +9,7 @@ externalLink: false
 ---
 
 Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git
-Php, JavaScript, JQuery, Iframe
+Php, JavaScript, JQuery
 
 ---
 
@@ -19,9 +19,9 @@ Php, JavaScript, JQuery, Iframe
 - SPC OM  검색 키워드 및 특정키워드 검색결과 미노출 필드 추가 ( 현재 3개  -> 5개로 확대)
   , 입력필드 당 최대 글자수 15자 까지로 제한 및 알럿노출 (2019.10.28 ~ 2019.10.31)
 - BD컨버팅 미대상딜에 대한 일괄 판매종료 처리 (2019.10.07)
+- MD요청 데이터 마이그레이션
 
 [장애대응]
-- 데이터 마이그레이션
 - SPC 배송템플릿 설정 이전딜 제주/도서산간 체크 수정 (2019.09.24)
 - ADMIN 옵션 등록 불가 현상 수정 (2019.09.26)
 - AMDIN 딜 컨텐츠 입력 > 등록완료 클릭 시 무반응 현상 (2019.09.27)
@@ -33,5 +33,6 @@ Php, JavaScript, JQuery, Iframe
 
 ---
 
+https://www.tmon.co.kr/ <br>
 https://spc.tmon.co.kr
 
