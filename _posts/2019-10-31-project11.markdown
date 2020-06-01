@@ -1,5 +1,5 @@
 ---
-title: "티몬 SPC 딜 승인 후 파트너가 SPC에서 직접 수정할 수 있도록 개선"
+title: "티몬 SPC 파트너가 딜 승인 후 수정할 수 있도록 개선"
 layout: post
 term: 2019.11 ~ 2019.11
 headerImage: false

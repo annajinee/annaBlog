@@ -1,7 +1,7 @@
 ---
-title: "[외주] 기업 통합 주식 정보 사이트 (진행중)"
+title: "[외주] 기업 통합 주식 정보 사이트"
 layout: post
-date: 2020.01.06 ~ 2020.03-28
+date: 2020.02.01 ~ 2020.03-28
 headerImage: false
 tag:
 - side
@@ -9,7 +9,7 @@ category: blog
 
 ---
 
-Vue.js, Java, SpringBoot
+Vue.js, Java, SpringBoot, BootStrap
 
 ---
 
