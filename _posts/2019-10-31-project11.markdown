@@ -1,0 +1,35 @@
+---
+title: "티몬 SPC 딜 승인 후 파트너가 SPC에서 직접 수정할 수 있도록 개선"
+layout: post
+term: 2019.11 ~ 2019.11
+headerImage: false
+projects: true
+category: project
+externalLink: false
+---
+
+Java, Spring, Angular5, TypeScript, Mybatis, MySQL, Window, Git
+
+---
+
+[개발 부분]
+- 어드민에서 승인 후 파트너가 SPC에서 상품정보고시 수정 가능하도록 활성화 처리
+- 수정 시 알림 메일 발송 (담당 MD/AMD 에게만 발송)
+
+[개발 기간]
+- 2019.11.04 ~ 2019.11.08
+ 
+ [As-is] 
+-  어드민에서 승인 처리가 된 딜 > 상품정보 제공고시 수정 불가
+ 
+ [To-be] 
+ - 승인 이후에도 판매대기/판매중 상태에 상품정보 제공고시 수정 가능하도록 변경
+ - 수정 시 담당 MD/AMD에게 수정 내역 메일 발송
+
+ 
+---
+
+https://spc.tmon.co.kr
+<br>
+<img src="../assets/images/project10-0.png">
+<img src="../assets/images/project10-1.png">
