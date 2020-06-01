@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbb6070b-3668-4e42-bfd3-a25ffab153a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-01-01-project13.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-27-project12.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-27-project12.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-project13.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-project13.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-project13.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <first_editor relative-caret-position="617">
+                <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -297,7 +296,7 @@
       <workItem from="1577409648996" duration="13030000" />
       <workItem from="1577668342215" duration="238000" />
       <workItem from="1577949800889" duration="699000" />
-      <workItem from="1590993817807" duration="8170000" />
+      <workItem from="1590993817807" duration="8686000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1577426281592</created>
@@ -460,11 +459,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591001184273</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update">
+      <created>1591002710159</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591002710159</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32500000" />
+    <option name="totallyTimeSpent" value="33016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -813,8 +819,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-project13.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <first_editor relative-caret-position="617">
+            <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

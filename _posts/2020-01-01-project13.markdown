@@ -1,5 +1,5 @@
 ---
-title: "티몬 연동사 개발 및 운영"
+title: "티몬 외부 연동 개발 및 운영"
 layout: post
 term: 2020.1 ~ 현재
 headerImage: false
@@ -36,6 +36,7 @@ Java, Spring, JavaScript, Mybatis, MySQL, Couchbase, Git, ELK, Scouter
 - 티포트 정산 API연동 (2020.04.26 ~ 2020.04.29)
 - 중소기업유통센터(아임셀러) (2020.04.17 ~ )
 - 교보문고 (2020.05.14~)
+
 
 ---
 
