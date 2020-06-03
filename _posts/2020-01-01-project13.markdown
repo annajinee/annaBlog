@@ -36,7 +36,7 @@ Java, Spring, JavaScript, Mybatis, MySQL, Couchbase, Git, ELK, Scouter
 - 샤플링
 - 마리오아울렛 
 <br>
-등 셀러툴 및 기타 배송딜 업체들
+등 셀러툴 및 배송딜 업체들
 
 [자잘 업무]
 - 어드민 외부사 메일안내 페이지 개선 (2020.01.14 ~ 2020.01.22)
